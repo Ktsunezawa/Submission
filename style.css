@@ -31,7 +31,7 @@ main {
   position: relative;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 769px) {
   .main-content-box1:last-child {
     margin-right: 0;
   }
